@@ -1,3 +1,4 @@
+ Inteligência Artificial e Criatividade Digital  
 # 🤖 Projeto Extensionista: IA & Criatividade 2026
 
 ## 📝 Descrição do Projeto
@@ -7,6 +8,8 @@ Espaço dedicado ao registro da minha evolução, arquitetura de sistemas e proj
 - **Faculdade:** GRAN Faculdade
 - **Curso:** Engenharia de Software
 - **Tipo:** Projeto de Extensão Universitária
+
+- ### 📝 Materiais do planejamento do projeto está logo acima, clique e conheça um pouco do meu aprendizado com este projeto
 
 ## 🛠️ Tecnologias e Conceitos Explorados
 - Inteligência Artificial
